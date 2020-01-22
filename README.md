@@ -1,6 +1,4 @@
-Simple apps to learn android - using API, xml etc.
-
-App with SQL data base is also done, will add here later.
+Simple android apps for learning purposes. Made while doing courses on Udacity from Google.
 
 QuakeReport - listing recent earthquakes with magnitudes and option to go to a website for more details - earthquake api.
 
